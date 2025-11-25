@@ -1,0 +1,5 @@
+{
+  "name": "RAG Chat",
+  "description": "An ultra-simple, unstyled chatbot interface that streams responses from the Gemini API. Users interact via a blinking text prompt in the top-left corner.",
+  "requestFramePermissions": []
+}
